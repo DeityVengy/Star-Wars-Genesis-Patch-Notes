@@ -2,14 +2,31 @@
 
 ## Version 5.1
 **General**
+- test
+
 **Gameplay**
+- test
+
 **Spacesuits/Clothing**
+- test
+  
 **Overhauls/Conversions**
+- test
+  
 **Balancing**
+- test
+  
 **Economy**
+- test
+  
 **Companions**
+- test
+  
 **Misc**
+- test
+  
 **Misc Bug Fixes**
+- test
 
 ## Version 5.0
 **General**
@@ -207,3 +224,32 @@
 - Melee attacks and Force Powers no longer get cancelled in third person due to Quick Lowered Weapons
 - You no longer flail while falling/using the Jetpack
 
+
+
+# IGNORE
+**General**
+- placeholder
+
+**Gameplay**
+- placeholder
+
+**Spacesuits/Clothing**
+- placeholder
+  
+**Overhauls/Conversions**
+- placeholder
+  
+**Balancing**
+- placeholder
+  
+**Economy**
+- placeholder
+  
+**Companions**
+- placeholder
+  
+**Misc**
+- placeholder
+  
+**Misc Bug Fixes**
+- placeholder

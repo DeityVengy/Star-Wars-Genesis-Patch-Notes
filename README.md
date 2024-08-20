@@ -1,6 +1,15 @@
 # Star Wars Genesis Patch Notes & History
 
-
+## Version 5.1
+**General**
+**Gameplay**
+**Spacesuits/Clothing**
+**Overhauls/Conversions**
+**Balancing**
+**Economy**
+**Companions**
+**Misc**
+**Misc Bug Fixes**
 
 ## Version 5.0
 **General**

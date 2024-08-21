@@ -1,7 +1,5 @@
 # Star Wars Genesis Patch Notes & History
 
-test: [<img alt="alt_text" width="300px" src="https://i.gyazo.com/20463314c4573da54e82fc60f84dc61c.png" />](https://www.google.com/)
-
 ## Version 5.1
 **General**
 - test
